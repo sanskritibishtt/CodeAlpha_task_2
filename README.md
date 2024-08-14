@@ -1,5 +1,4 @@
 # CodeAlpha_tasks
-All 3 alloted tasks
 
-TASK 2:
+TASK 2:Credit score modelling using Logistic Regression
 
